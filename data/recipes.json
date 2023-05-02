@@ -1,0 +1,72 @@
+[
+    {
+      "id": "0282e0e5",
+      "recipe_name": "Biriyani",
+      "ingredients": ["basmati rice", "chicken", "onions", "yogurt", "ghee", "ginger paste", "garlic paste", "cumin powder"],
+      "method": ["1. Marinate chicken in yogurt, ginger paste, and garlic paste for at least an hour", "2. Fry onions until golden brown and set aside", "3. In the same pan, fry chicken until cooked and set aside", "4. Boil rice in water with whole spices until half cooked, then drain", "5. Layer rice and chicken in a pot, adding fried onions and ghee in between", "6. Cover and cook on low heat until rice is fully cooked"],
+      "img":"https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop-500x375.jpg",
+      "ratings": 4.5,
+      "chef_id":1
+    },
+    {
+      "id": "f4848a5d",
+      "recipe_name": "Chapati",
+      "ingredients": ["whole wheat flour", "salt", "water"],
+      "method": ["1. Mix flour and salt in a bowl", "2. Add water gradually and knead until dough is smooth and elastic", "3. Divide dough into small balls and roll out into flat discs", "4. Cook on a hot skillet until lightly browned on both sides"],
+      "img":"https://img-global.cpcdn.com/recipes/10ec1789bfbe8944/1360x964cq70/ghugooni-chatpati-chatpata-recipe-main-photo.webp",
+      "ratings": 4.2,
+      "chef_id":1
+    },
+    {
+      "id": "d6f8ab6f",
+      "recipe_name": "Fish Curry",
+      "ingredients": ["fish fillets", "onion", "tomatoes", "ginger paste", "garlic paste", "cumin powder", "coriander powder", "turmeric powder"],
+      "method": ["1. Fry onions until golden brown", "2. Add ginger paste and garlic paste and fry for a minute", "3. Add tomatoes and cook until soft and mushy", "4. Add spices and fry for a minute", "5. Add fish fillets and enough water to cover them", "6. Simmer until fish is fully cooked and sauce has thickened"],
+      "img":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe-500x500.jpg",
+      "ratings": 4.8,
+      "chef_id":2
+    },
+    {
+      "id": "5f6c2a0b",
+      "recipe_name": "Pitha",
+      "ingredients": ["rice flour", "jaggery", "coconut", "water"],
+      "method": ["1. Mix rice flour with warm water to make a dough", "2. Make small balls from the dough and flatten them", "3. Fill with a mixture of jaggery and grated coconut", "4. Seal the edges and steam for 10-15 minutes"],
+      "img":"https://tostadamagazine.com/wp-content/uploads/2019/03/banglatown_12.jpg",
+      "ratings": 4.6,
+      "chef_id":2
+    },
+    {
+      "id": "a73c43d6",
+      "recipe_name": "Dal",
+      "ingredients": ["yellow lentils", "onion", "tomatoes", "garlic", "ginger", "cumin", "coriander"],
+      "method": ["1. Boil lentils with water until soft", "2. Fry onions until golden brown", "3. Add garlic and ginger paste and fry for a minute", "4. Add tomatoes and cook until soft and mushy", "5. Add spices and fry for a minute", "6. Add boiled lentils and enough water to get the desired consistency", "7. Simmer for a few minutes until flavors meld"],
+      "img":"https://www.vegrecipesofindia.com/wp-content/uploads/2021/11/chana-dal04-1.jpg",
+      "ratings": 4.4,
+      "chef_id":3
+    },
+    {    "id": "0282e0e5",    
+    "recipe_name": "Shorshe Ilish",    "ingredients": ["ilish fish", "mustard seeds", "green chili", "turmeric", "salt", "mustard oil", "curry leaves"],
+    "method": "Marinate ilish fish with salt and turmeric. Fry the fish in mustard oil until golden brown. In a separate pan, fry mustard seeds and green chili. Add a little water and the fried fish to the pan. Cover and cook for a few minutes. Garnish with curry leaves and serve with rice.",
+    "img":"https://pikturenama.com/wp-content/uploads/2020/10/Ilish-Mach-Bhaja-low-res-4-500x500.jpg",
+    "ratings":4.8,
+    "chef_id":3
+  },
+  {
+    "id": "9db776f7",
+    "recipe_name": "Chingri Malai Curry",
+    "ingredients": ["prawns", "coconut milk", "green chili", "ginger paste", "garlic paste", "cumin powder", "coriander powder", "turmeric", "sugar", "salt", "ghee", "bay leaves"],
+    "method": "Heat ghee in a pan and fry bay leaves. Add ginger and garlic paste, cumin and coriander powder, and turmeric. Fry for a few minutes. Add prawns, salt, and sugar. Fry until prawns are cooked. Add coconut milk and green chili. Cook for a few minutes. Serve with rice.",
+    "img":"https://img-global.cpcdn.com/recipes/d183ecbe050db451/680x482cq70/prawn-malai-curry-or-galda-chingri-macher-malai-curry-recipe-main-photo.jpg",
+    "ratings":5,
+    "chef_id":4
+  },
+  {
+    "id": "c8aa9558",
+    "recipe_name": "Bhuna Khichuri",
+    "ingredients": ["basmati rice", "yellow lentils", "onion", "garlic paste", "ginger paste", "turmeric", "cumin powder", "coriander powder", "bay leaves", "ghee"],
+    "method": "Wash rice and lentils and soak for half an hour. Heat ghee in a pan and fry bay leaves and onions until golden brown. Add garlic and ginger paste, turmeric, cumin and coriander powder. Fry for a few minutes. Add the rice and lentils, and fry for a few more minutes. Add water and salt, and cook on low heat until the rice and lentils are cooked. Serve hot.",
+    "img":"https://kitchenofdebjani.com/wp-content/uploads/2022/10/Bengali-Bhuna-Khichuri-Recipe-debjanir-rannaghar.jpg",
+    "ratings":3,
+    "chef_id":4
+  }
+]
