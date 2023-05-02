@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Gordon Ramsay",
+      "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+      "experience_years": 30,
+      "num_recipes": 150,
+      "likes": 10000,
+      "bio": "Gordon Ramsay is a world-renowned chef and television personality. He has owned and operated several successful restaurants, written numerous cookbooks, and hosted several popular cooking shows. He is known for his tough love approach to cooking and his high standards for quality and taste."
+    },
+    {
+      "id": 2,
+      "name": "Ina Garten",
+      "picture": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
+      "experience_years": 40,
+      "num_recipes": 100,
+      "likes": 5000,
+      "bio": "Ina Garten is a popular chef, author, and television host. She is known for her simple, elegant approach to cooking and entertaining, and her recipes are beloved by home cooks around the world. She has written several best-selling cookbooks and hosted several successful cooking shows."
+    },
+    {
+      "id": 3,
+      "name": "Jamie Oliver",
+      "picture": "https://www.simplybusiness.co.uk/static/896d58b532c8e2ec7ac1719fe62b37ae/b6518/how-to-become-a-chef.jpg",
+      "experience_years": 25,
+      "num_recipes": 200,
+      "likes": 7500,
+      "bio": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his simple, healthy recipes and his efforts to improve food education and access to healthy food for all. He has written numerous cookbooks and hosted several successful cooking shows."
+    },
+    {
+      "id": 4,
+      "name": "Chrissy Teigen",
+      "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+      "experience_years": 5,
+      "num_recipes": 50,
+      "likes": 2500,
+      "bio": "Chrissy Teigen is a model, author, and television personality. She is also an accomplished home cook, and has written a best-selling cookbook. Her recipes are known for their creative twists on classic dishes and their emphasis on bold flavors and fresh ingredients."
+    }
+  ]
+  
