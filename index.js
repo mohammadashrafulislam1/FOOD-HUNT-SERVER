@@ -16,9 +16,21 @@ app.get('/recipes', (req, res) =>{
     res.send(recipes)
 })
 app.get('/recipes/:id', (req, res) =>{
-    const id = req.params.id;
-    const selectedRecipes = recipes.find(r => r.id === id);
-    res.send(selectedRecipes)
+  const id = req.params.id;
+  const selectedRecipes = recipes.filter(r => r.chef_id === parseInt(id)); 
+  // Use parseInt to convert id to integer
+  res.send(selectedRecipes)
+})
+app.get('/recipes/:id/:id', (req, res) =>{
+  const id = req.params.id;
+  const selectedRecipes = recipes.find(r => r.id === id); 
+  // Use parseInt to convert id to integer
+  res.send(selectedRecipes)
+})
+app.get('/chef/:id', (req, res)=>{
+  const id = req.params.id;
+  const selectedChef = chef.find(c=> c.id === parseInt(id))
+  res.send(selectedChef)
 })
 app.listen(port, () => {
   console.log(`Running on port ${port}`)
